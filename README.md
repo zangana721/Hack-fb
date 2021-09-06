@@ -1,4 +1,4 @@
-$ git clone https://github.com/mkdirlove/FBTOOL
+$ git clone https://github.com/zangana721/Hack-fb
 
 $ cd FBTOOL
 
